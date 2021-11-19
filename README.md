@@ -1,5 +1,7 @@
 # Engineering Computations Module 2
 
+*[forked from https://github.com/engineersCode/EngComp2_takeoff]*
+
 _Engineering Computations_ is a collection of stackable learning modules, flexible for adoption in different situations.
 It aims to develop computational skills for students in engineering, but it can also be used by students in other science majors.
 The course uses the Python programming language and the Jupyter open-source tools for interactive computing.
